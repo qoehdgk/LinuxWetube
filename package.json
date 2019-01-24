@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qoehdgk/Wetube.git"
+    "url": "git+https://github.com/qoehdgk/LinuxWetube.git"
   },
   "author": "Dongha Bae",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qoehdgk/Wetube/issues"
+    "url": "https://github.com/qoehdgk/LinuxWetube/issues"
   },
-  "homepage": "https://github.com/qoehdgk/Wetube#readme",
+  "homepage": "https://github.com/qoehdgk/LinuxWetube#readme",
   "dependencies": {
     "@babel/core": "^7.2.2",
     "@babel/node": "^7.2.2",
